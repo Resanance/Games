@@ -1,0 +1,11 @@
+[
+{
+  "name":"Rocket League",
+  "exe": "RocketLeague.exe",
+  "admin": false
+},{
+  "name":"DeltaForceClient-Win64-Shipping",
+  "exe": "df_launcher.exe",
+  "admin": true
+}  
+]
